@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesplantar01linn_0006.png"; bbox 0 0 1785 3114; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 1167 1728 1624">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 1167 1728 1624">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 1167 1079 1257; baseline -0.002 -26"><span class='ocrx_word' id='word_1_1' title='bbox 266 1167 494 1257; x_wconf 80' lang='lat' dir='ltr'>Ignoto</span> <span class='ocrx_word' id='word_1_2' title='bbox 542 1169 778 1240; x_wconf 19' lang='lat' dir='ltr'>Gen-ere</span> <span class='ocrx_word' id='word_1_3' title='bbox 827 1168 1079 1257; x_wconf 78' lang='lat' dir='ltr'>proprio</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 476 1253 1728 1352; baseline -0.001 -30"><span class='ocrx_word' id='word_1_4' title='bbox 476 1256 643 1322; x_wconf 69' lang='lat' dir='ltr'>nulla</span> <span class='ocrx_word' id='word_1_5' title='bbox 659 1254 1006 1352; x_wconf 65' lang='lat' dir='ltr'><em>descriptis),</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1031 1254 1162 1346; x_wconf 61' lang='lat' dir='ltr'><em>quis*</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1173 1275 1450 1323; x_wconf 74' lang='lat' dir='ltr'><em>accurata</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1483 1253 1728 1339; x_wconf 73' lang='lat' dir='ltr'><em>tradita,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1007 1346 1683 1431; baseline 0.003 -19"><span class='ocrx_word' id='word_1_9' title='bbox 1007 1368 1236 1412; x_wconf 80' lang='lat' dir='ltr'>certam</span> <span class='ocrx_word' id='word_1_10' title='bbox 1272 1346 1683 1431; x_wconf 77' lang='lat' dir='ltr'>demonstrat,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 991 1436 1682 1530; baseline 0.006 -29"><span class='ocrx_word' id='word_1_11' title='bbox 991 1436 1109 1521; x_wconf 82' lang='lat' dir='ltr'><em>sed</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1126 1438 1479 1530; x_wconf 69' lang='lat' dir='ltr'><em>plerumque</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1493 1438 1682 1525; x_wconf 76' lang='lat' dir='ltr'><em>fallit.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1008 1529 1638 1624; baseline -0.003 -26"><span class='ocrx_word' id='word_1_14' title='bbox 1008 1531 1368 1598; x_wconf 72' lang='lat' dir='ltr'><strong>CAESALP.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1406 1529 1638 1624; x_wconf 65' lang='lat' dir='ltr'><em>praefae.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

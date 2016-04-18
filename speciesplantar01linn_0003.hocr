@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesplantar01linn_0003.png"; bbox 0 0 1785 3114; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 565 1145 1670 1209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 565 1145 1670 1209">
+     <span class='ocr_line' id='line_1_1' title="bbox 565 1145 1670 1209; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 565 1155 568 1207; x_wconf 71' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1314 1150 1347 1199; x_wconf 61' lang='grc'>1</span> <span class='ocrx_word' id='word_1_3' title='bbox 1376 1145 1670 1209; x_wconf 44' lang='grc' dir='ltr'><strong>ᾹΟἿἹΗ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 567 1313 1658 1568">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 567 1313 1658 1568">
+     <span class='ocr_line' id='line_1_2' title="bbox 578 1313 1658 1393; baseline -0.001 -19"><span class='ocrx_word' id='word_1_4' title='bbox 578 1338 586 1393; x_wconf 80' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_5' title='bbox 755 1315 910 1377; x_wconf 87' lang='lat' dir='ltr'>This</span> <span class='ocrx_word' id='word_1_6' title='bbox 966 1314 1137 1377; x_wconf 88' lang='lat' dir='ltr'><strong>book</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1193 1317 1371 1377; x_wconf 86' lang='lat' dir='ltr'><strong>must</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1426 1317 1544 1376; x_wconf 85' lang='lat' dir='ltr'><strong>not</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1597 1313 1658 1376; x_wconf 83' lang='lat' dir='ltr'><strong>b.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 567 1403 1633 1467; baseline -0.001 -2"><span class='ocrx_word' id='word_1_10' title='bbox 567 1403 569 1455; x_wconf 65' lang='grc' dir='ltr'><strong><em>ἶ</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 677 1405 882 1466; x_wconf 85' lang='lat' dir='ltr'><strong>taken</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 957 1405 1136 1467; x_wconf 85' lang='lat' dir='ltr'><strong>from</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1212 1405 1326 1467; x_wconf 86' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1402 1405 1633 1466; x_wconf 72' lang='lat' dir='ltr'><strong>Librar</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 677 1494 994 1568; baseline 0.003 -12"><span class='ocrx_word' id='word_1_15' title='bbox 677 1494 994 1568; x_wconf 85' lang='lat' dir='ltr'><strong>building.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 480 1603 1113 3114">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 480 1603 1113 3114">
+     <span class='ocr_line' id='line_1_5' title="bbox 480 1603 1113 3114; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 480 1603 1113 3114; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
